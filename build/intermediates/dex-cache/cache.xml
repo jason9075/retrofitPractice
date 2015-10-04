@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/eclipse/adt-bundle-mac-x86_64-20140624/sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/Users/jason9075/Documents/Android App/RetrofitDemo/app/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-4ebb4b540df52a0633512be8c388551685cff39b.jar" />
+    </item>
+    <item
+        jar="/Users/jason9075/.gradle/caches/modules-2/files-2.1/com.squareup.retrofit/retrofit/1.9.0/a681c044244d9fc375198588297a39ba78028423/retrofit-1.9.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a681c044244d9fc375198588297a39ba78028423">
+        <dex dex="/Users/jason9075/Documents/Android App/RetrofitDemo/app/build/intermediates/pre-dexed/debug/retrofit-1.9.0-a8c58dc8a153b00d5a28d9e2a57cb66168fab776.jar" />
+    </item>
+    <item
+        jar="/Users/jason9075/Documents/Android App/RetrofitDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/Users/jason9075/Documents/Android App/RetrofitDemo/app/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-4bc4a0c69453ecc5ba345ca7bc93ef7b3bed44d1.jar" />
+    </item>
+    <item
+        jar="/Users/jason9075/Documents/Android App/RetrofitDemo/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/Users/jason9075/Documents/Android App/RetrofitDemo/app/build/intermediates/pre-dexed/debug/classes-3cb396b835bcec8a3607570682cd71a2f81ce12a.jar" />
+    </item>
+    <item
+        jar="/Users/jason9075/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.3.1/ecb6e1f8e4b0e84c4b886c2f14a1500caf309757/gson-2.3.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="/Users/jason9075/Documents/Android App/RetrofitDemo/app/build/intermediates/pre-dexed/debug/gson-2.3.1-d056f6c3fbb55ea1577be60b24168c148523dca2.jar" />
+    </item>
+    <item
+        jar="/Users/jason9075/Documents/Android App/RetrofitDemo/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="/Users/jason9075/Documents/Android App/RetrofitDemo/app/build/intermediates/pre-dexed/debug/classes-2180569099b29563b58ca4c7c46a810ab09f1b91.jar" />
+    </item>
+
+</items>
